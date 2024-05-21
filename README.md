@@ -1,5 +1,5 @@
 # 👋 Hello, I’m Soheb Tamboli
-![Soheb Tamboli](https://github.com/https://www.canva.com/design/DAGF4PTXsWE/Tx6JUQiRvhFT82Z9qRT-og/edit)
+![Soheb Tamboli](https://github.com/https://app.gemoo.com/share/image-annotation/651587176038027264?codeId=vzR4oGrdyN4eO&origin=imageurlgenerator&card=651587171390730240)
 
 ![visitor badge](https://komarev.com/ghpvc/?username=d-Akkya&style=for-the-badge&color=F26F2D) [![GitHub followers](https://img.shields.io/github/followers/d-Akkya.svg?style=for-the-badge&label=Follow&color=F26F2D)](https://github.com/d-Akkya?tab=followers)
 <!---
