@@ -1,5 +1,5 @@
 # 👋 Hello, I’m Soheb Tamboli
-![Akhilesh Bamane](https://github.com/d-Akkya/d-Akkya/assets/120074124/a166ecad-c30e-4ed7-9e78-920cd2654305)
+![Soheb Tamboli](https://github.com/d-Akkya/d-Akkya/assets/120074124/a166ecad-c30e-4ed7-9e78-920cd2654305)
 
 ![visitor badge](https://komarev.com/ghpvc/?username=d-Akkya&style=for-the-badge&color=F26F2D) [![GitHub followers](https://img.shields.io/github/followers/d-Akkya.svg?style=for-the-badge&label=Follow&color=F26F2D)](https://github.com/d-Akkya?tab=followers)
 <!---
