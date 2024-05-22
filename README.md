@@ -1,6 +1,5 @@
 # 👋 Hello, I’m Soheb Tamboli
-![Soheb Tamboli](https://github.com/https://app.gemoo.com/share/image-annotation/651587176038027264?codeId=vzR4oGrdyN4eO&origin=imageurlgenerator&card=651587171390730240)
-![Akhilesh Bamane](https://github.com/soheb123-tamboli/soheb123-tamboli/assets/120311878/0d777975-ece9-470a-b3b9-71bfb13637f1)
+
 
 ![visitor badge](https://komarev.com/ghpvc/?username=soheb123-tamboli&style=for-the-badge&color=F26F2D) [![GitHub followers](https://img.shields.io/github/followers/soheb123-tamboli.svg?style=for-the-badge&label=Follow&color=F26F2D)](https://github.com/soheb123-tamboli?tab=followers)
 <!---
