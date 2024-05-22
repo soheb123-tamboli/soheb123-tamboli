@@ -41,13 +41,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 How to reach me
 
-[![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshbamane26@gmail.com)
+[![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohebtamboli81@gmail.com)
   
 ***
 
 ## 📱 My Social Handles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-akkya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soheb-tamboli/)
 [![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_akkya_007/)
 [![Twitter](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Akhilesh_Bamane/)  
 ***
