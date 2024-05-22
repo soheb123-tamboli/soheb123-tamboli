@@ -3,13 +3,13 @@
 
 ![visitor badge](https://komarev.com/ghpvc/?username=soheb123-tamboli&style=for-the-badge&color=F26F2D) [![GitHub followers](https://img.shields.io/github/followers/soheb123-tamboli.svg?style=for-the-badge&label=Follow&color=F26F2D)](https://github.com/soheb123-tamboli?tab=followers)
 <!---
-d-Akkya/d-Akkya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+soheb123-tamboli/soheb123-tamboli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Contribution Graph-->
 
-[![Soheb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soheb123-tamboli&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/d-Akkya)
+[![Soheb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soheb123-tamboli&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/soheb123-tamboli)
 
 |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
@@ -28,5 +28,5 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soheb-tamboli/)
 [![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soheb_tamboli786/)
-[![Twitter](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Akhilesh_Bamane/)  
+[![Twitter](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/@soheb_tamboli9/)  
 ***
